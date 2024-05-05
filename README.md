@@ -26,4 +26,4 @@ Navigate to http://localhost:3000 in your browser to view the app.
 
 ## Deployment
 The project is deployed and can be accessed here.
-https://gpt-4-eta-nine.vercel.app/
+https://restaurant-landing-page-sand.vercel.app/
